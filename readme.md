@@ -16,10 +16,10 @@ of the security assessment checklist document.
 ### Latest versions
 | Format | Link |
 | ------ | ---- |
-| PDF | [Tezos smart contract security assessment checklist - v1.2.pdf](./publications/v1.2/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v1.2.pdf)| 
-| Word (DOCX) | [Tezos smart contract security assessment checklist - v1.2.docx](./publications/v1.2/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v1.2.docx)|
-| OpenDocument (ODT) | [Tezos smart contract security assessment checklist - v1.2.odt](./publications/v1.2/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v1.2.odt)|
-| Google Doc | https://docs.google.com/document/d/13e93UgCUcxxwBgRxWPAKZvWyTnueK39G2skLoN5jiB0/edit?usp=sharing |
+| PDF | [Tezos smart contract security assessment checklist - v2.0.pdf](./publications/v2.0/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v2.0.pdf)| 
+| Word (DOCX) | [Tezos smart contract security assessment checklist - v2.0.docx](./publications/v2.0/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v2.0.docx)|
+| OpenDocument (ODT) | [Tezos smart contract security assessment checklist - v2.0.odt](./publications/v2.0/Tezos%20smart%20contract%20security%20assessment%20checklist%20-%20v2.0.odt)|
+| Google Doc | https://docs.google.com/document/d/1V_WnswGFDsBAh4pLJKEhQFHlQEbJU8yzUV0ua2lw_lA/edit?usp=sharing |
 
 ### Old versions
 Old versions of the checklist can be found here: [Old versions of Tezos security assessment checklist](./old-versions.md)
